@@ -1,4 +1,4 @@
-### Hi there 👋 Soy Paola 
+### Hi there 👋 I´m Paola 
 
 - 🔭 I’m currently working on my learning front-end web development.
 - 🌱 I’m currently learning  about JavaScript, Node.js,  React.
